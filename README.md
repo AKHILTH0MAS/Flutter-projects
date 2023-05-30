@@ -1,5 +1,5 @@
 # Flutter projects🥂
-###  Simple flutter Uis made my for learning 
+###  Simple flutter Uis made by me for learning 
 
 
 | Application  | Description  | Repository |
